@@ -1,0 +1,20 @@
+2025-05-08 08:59:36 - Starting user and group setup
+2025-05-08 08:59:36 - Processing users.txt file
+2025-05-08 08:59:36 - Skipping header line
+2025-05-08 08:59:36 - Created group 'engineering'
+2025-05-08 08:59:36 - Created user 'jdoe' (John Doe) in group 'engineering'
+2025-05-08 08:59:36 - Set complex temporary password for 'jdoe'
+2025-05-08 08:59:36 - Forced password change on first login for 'jdoe'
+2025-05-08 08:59:36 - Set permissions 700 on /home/jdoe
+2025-05-08 08:59:36 - Group 'engineering' already exists
+2025-05-08 08:59:36 - Created user 'asmith' (Alice Smith) in group 'engineering'
+2025-05-08 08:59:36 - Set complex temporary password for 'asmith'
+2025-05-08 08:59:36 - Forced password change on first login for 'asmith'
+2025-05-08 08:59:36 - Set permissions 700 on /home/asmith
+2025-05-08 08:59:36 - Created group 'design'
+2025-05-08 08:59:36 - Created user 'mjones' (Mike Jones) in group 'design'
+2025-05-08 08:59:36 - Set complex temporary password for 'mjones'
+2025-05-08 08:59:36 - Forced password change on first login for 'mjones'
+2025-05-08 08:59:36 - Set permissions 700 on /home/mjones
+2025-05-08 08:59:36 - Finished processing users.txt file
+2025-05-08 08:59:36 - User and group setup completed successfully
